@@ -1,0 +1,30 @@
+{
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "cropRec": "Crop Recommendation",
+    "disease": "Disease Detection",
+    "weather": "Weather",
+    "market": "Market Prices",
+    "schemes": "Government Schemes",
+    "about": "About",
+    "login": "Login",
+    "signup": "Sign Up",
+    "guest": "Guest Login",
+    "profile": "Profile"
+  },
+  "hero": {
+    "headline": "Smarter Farming. Better Harvests.",
+    "subheading": "AI-powered farming intelligence for crop recommendations, weather insights, disease detection and better market decisions.",
+    "getStarted": "Get Started",
+    "exploreDashboard": "Explore Dashboard"
+  },
+  "stats": {
+    "supportedCrops": "50+ Supported Crops",
+    "realtimeWeather": "Real-time Weather Monitoring",
+    "marketLocations": "100+ Market Locations",
+    "languages": "3 Supported Languages"
+  },
+  "featuresTitle": "Everything a Farmer Needs in One Platform",
+  "cta": "Transform Your Farm With AI"
+}
